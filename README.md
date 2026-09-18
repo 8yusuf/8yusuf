@@ -1,16 +1,42 @@
-## Hi there 👋
+# Muhammet Yusuf Polat
 
-<!--
-**8yusuf/8yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Istanbul Sabahattin Zaim University, expected to graduate in 2028. I focus on artificial intelligence, machine learning, and Python software development, with a growing interest in robotics and intelligent physical systems.
 
-Here are some ideas to get you started:
+## Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI-Powered Smart Hydroponic Farming Monitoring and Decision Support System
+
+**TUBITAK 2209-A Supported Undergraduate Research Project**  
+**Project Lead | 2025 - Present**
+
+- Leading a two-person team developing an AI-assisted prototype for hydroponic farming.
+- Integrating MobileNetV3-based plant disease classification with environmental sensor inputs and rule-based decision support.
+- Contributing to the Streamlit application, image-processing workflow, sensor-data pipeline, and system integration.
+- Exploring multimodal approaches that combine plant images with environmental measurements.
+
+## Technical Focus
+
+- Artificial Intelligence and Machine Learning
+- Computer Vision
+- Python Software Development
+- Data Analysis
+- Smart Agriculture
+- Robotics and ROS 2 as a future development area
+
+## Technologies
+
+**Languages:** Python, C, C++  
+**Machine Learning:** PyTorch, torchvision, scikit-learn  
+**Data and Visualization:** pandas, NumPy, Matplotlib  
+**Application Development:** Streamlit  
+**Tools:** Git, GitHub, Jupyter Notebook, Spyder, Anaconda
+
+## Learning Priorities
+
+- Building reliable machine learning evaluation workflows
+- Improving model deployment and application integration skills
+- Developing practical knowledge of ROS 2 and robotic systems
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/myusufpolat/)
